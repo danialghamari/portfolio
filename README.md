@@ -13,3 +13,36 @@ Welcome to my portfolio! Here, I document a summary of my past and current proje
 
 
 # Professional Work
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+# Personal projects
