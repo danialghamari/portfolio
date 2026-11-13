@@ -11,8 +11,8 @@ Welcome to my portfolio! Here, I document a summary of my past and current proje
 
 2. [**Personal/Independent projects**](#personal-projects)
 
-    1. [Machine Learning](#classical-machine-learning)
-    2. [Analytics with SQL](#analytics-with-sql)
+    [comment]: <> 1. [Machine Learning](#classical-machine-learning)
+    1. [Analytics with SQL](#analytics-with-sql)
 
 
 # Professional Work
@@ -25,11 +25,11 @@ Welcome to my portfolio! Here, I document a summary of my past and current proje
 ***
 
 # Personal projects
-## Machine Learning
-| Project Link | Models | Tools | Project Summary | 
-|---|---|---|---|
-| [Housing price prediction](https://github.com/danialghamari/ML_basics/tree/main/Supervised_Regression) | RandomForest, Gradient/XGBoost, NN-Regressor | Python, SKlearn, PyTorch | |
+[comment]: <> ## Machine Learning
+[comment]: <> | Project Link | Models | Tools | Project Summary | 
+[comment]: <> |---|---|---|---|
+[comment]: <> | [Housing price prediction](https://github.com/danialghamari/ML_basics/tree/main/Supervised_Regression) | RandomForest, Gradient/XGBoost, NN-Regressor | Python, SKlearn, PyTorch | |
 ## Analytics with SQL
 | Project Link | Models | Tools | Project Summary | 
 |---|---|---|---|
-| [COVID19 trends and the effect of pandemic in top 20 GDP countries](https://github.com/danialghamari/ML_basics/tree/main/Supervised_Regression) | RandomForest, Gradient/XGBoost, NN-Regressor | Python, SKlearn, PyTorch | |
+| [Analyzing the effects of the pandemic in the top 20 GDP countries](https://github.com/danialghamari/SQL_projects/tree/main/Covid_19_analysis) |  | Python, SKlearn, PyTorch | |
