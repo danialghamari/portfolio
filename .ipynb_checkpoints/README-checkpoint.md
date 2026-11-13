@@ -11,7 +11,7 @@ Welcome to my portfolio! Here, I document a summary of my past and current proje
 
 2. [**Personal/Independent projects**](#personal-projects)
 
-    [comment]: <> (1. [Machine Learning](#classical-machine-learning))
+    [//]: <> (1. [Machine Learning](#classical-machine-learning))
     1. [Analytics with SQL](#analytics-with-sql)
 
 
